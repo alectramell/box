@@ -10,7 +10,7 @@ os.system("clear")
 
 boxid = raw_input("BOX ID: ")
 
-boxname = str("~/box/files/" + boxid)
+boxname = str("~/box/files/" + boxid + "/")
 
 os.system("gnome-open " + boxname)
 
