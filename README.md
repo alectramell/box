@@ -1,4 +1,4 @@
-Apollon Data Metrics Agency
+<font size="4"><b>Apollon Data Metrics Agency</b></font>
 
 Client Dropbox 2015
 
@@ -6,16 +6,16 @@ To access your client box, run the dropbox with the following commands..
 
 If you have not yet downloaded the box..
 
-$ cd ~
+<font color="#0075FF"><b>$ cd ~</b></font>
 <br />
-$ git clone http://github.com/alectramell/box.git
+<font color="#0075FF"><b>$ git clone</b></font> http://github.com/alectramell/box.git
 <br />
-$ clear
+<font color="#0075FF"><b>$ clear</b></font>
 <br />
-$ python ~/box
+<font color="#0075FF"><b>$ python ~/box</b></font>
 
 If you already have access to the box..
 
-$ python ~/box
+<font color="#0075FF"><b>$ python ~/box</b></font>
 
 # box
